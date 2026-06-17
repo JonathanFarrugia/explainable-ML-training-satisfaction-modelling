@@ -70,7 +70,7 @@ The workflow generates:
 ├── data/
 │   └── synthetic_training_data.xlsx 
 │
-└── results/
+└── results (Sample Output)/
     ├── best_params.txt
     ├── results_summary.xlsx
     ├── Shap_bar.png
