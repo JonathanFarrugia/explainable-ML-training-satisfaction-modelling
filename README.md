@@ -68,10 +68,10 @@ The workflow generates:
 ├── requirements.txt
 │
 ├── data/
-│   ├── synthetic_training_data.xlsx
-│   └── best_params.txt
+│   └── synthetic_training_data.xlsx 
 │
 └── results/
+    ├── best_params.txt
     ├── results_summary.xlsx
     ├── Shap_bar.png
     ├── Shap_beeswarm_numerical.png
